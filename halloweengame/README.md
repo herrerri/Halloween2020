@@ -1,5 +1,5 @@
 # CIS 343 - Halloween Project
-## Fall 2020 - Project 3 - Ricardo Herrera-Santos
+### Fall 2020 - Project 3 - Ricardo Herrera-Santos
 
 Just going to go over quickly about some of the changes I made in the program from the
 specifications provided in the original document:
